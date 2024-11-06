@@ -1,0 +1,10 @@
+{
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "name": "Focused LinkedIn",
+    "description": "trying to make LinkedIn less painful 🤞",
+    "action": {
+        "default_popup": "js/index.html",
+        "default_title": "Focused LinkedIn"
+    }
+}
